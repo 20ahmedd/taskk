@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.stopwatch {
+    text-align: center;
+    font-size: 36px;
+}
+
+#display {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
